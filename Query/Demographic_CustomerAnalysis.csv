@@ -1,0 +1,1001 @@
+continent,country,state,city,customer_count
+"North America","United States",Illinois,Bellwood,1
+"North America","United States",Arkansas,Wichita,1
+"North America","United States",Wisconsin,Kenosha,1
+"North America","United States",Kentucky,Richmond,1
+"North America","United States",California,"Bear Valley Springs",1
+"North America","United States",Nebraska,Ceresco,1
+"North America","United States",Missouri,Tarkio,1
+"North America","United States",California,"Monte Rio",1
+"North America","United States",Iowa,Readlyn,1
+"North America","United States","South Dakota",Valentine,1
+"North America","United States",Illinois,Winnebago,1
+"North America","United States",Missouri,Atchison,1
+"North America","United States",Illinois,Bartlett,1
+"North America","United States",Kentucky,"Science Hill",1
+"North America","United States",Michigan,Owendale,1
+"North America","United States",Kansas,Wamego,1
+"North America","United States","New Jersey",Westfield,1
+"North America","United States",Ohio,Clarksburg,1
+"North America","United States",Pennsylvania,"Blue Ridge Summit",1
+"North America","United States","New York",Cutchogue,1
+"North America","United States","South Carolina",Irmo,1
+"North America","United States",Florida,"Indian Rocks (Beach)",1
+"North America","United States",California,Bell,1
+"North America","United States",Connecticut,Bridgeport,1
+"North America","United States",Wisconsin,"Lebanon (Dodge)",1
+"North America","United States",California,Coronado,1
+"North America","United States",Hawaii,Kamuela,1
+"North America","United States",Massachusetts,Marshfield,1
+"North America","United States",Hawaii,Waialua,1
+"North America","United States",Louisiana,Crowley,1
+"North America","United States",Illinois,Belleville,1
+"North America","United States",Florida,"Hobe Sound",1
+"North America","United States",Florida,"Lake Placid",1
+"North America","United States",Illinois,"Camp Grove",1
+"North America","United States",Virginia,Fries,1
+"North America","United States",Louisiana,"French Settlement",1
+"North America","United States",Pennsylvania,Churchville,1
+"North America","United States",Illinois,"West Chicago",1
+"North America","United States",Oklahoma,Ames,1
+"North America","United States",Wisconsin,Sturtevant,1
+"North America","United States",Kentucky,Virgie,1
+"North America","United States",Utah,Clearfield,1
+"North America","United States",Kentucky,Glasgow,1
+"North America","United States",Kansas,Miltonvale,1
+"North America","United States",Indiana,Cloverdale,1
+"North America","United States",Kansas,Brewster,1
+"North America","United States",Washington,Shelton,1
+"North America","United States",Texas,Cypress,1
+"North America","United States",Texas,Christine,1
+"North America","United States",Missouri,Chillicothe,1
+"North America","United States",Michigan,Muskegon,1
+"North America","United States",Hawaii,Pahala,1
+"North America","United States",Kansas,"Scott City",1
+"North America","United States","New Jersey",Millburn,1
+"North America","United States",Missouri,Hazelwood,1
+"North America","United States",California,Camarillo,1
+"North America","United States",Nevada,Overton,1
+"North America","United States",Ohio,"New Carlisle",1
+"North America","United States","New Jersey","East Orange",1
+"North America","United States",California,Calipatria,1
+"North America","United States",Kansas,Goodland,1
+"North America","United States",Washington,Omak,1
+"North America","United States",Virginia,Centerville,1
+"North America","United States",Montana,Geyser,1
+"North America","United States",California,"Mission Viejo",1
+"North America","United States","North Carolina",Lumberton,1
+"North America","United States",Wisconsin,"Stevens Point",1
+"North America","United States",Nebraska,Fremont,1
+"North America","United States",Missouri,Kennett,1
+"North America","United States","North Carolina",Maiden,1
+"North America","United States",Minnesota,Delft,1
+"North America","United States",Texas,"San Marcos",1
+"North America","United States",Illinois,Newman,1
+"North America","United States",Pennsylvania,"Camp Hill",1
+"North America","United States",Maryland,"Lexington Park",1
+"North America","United States","North Dakota",Manvel,1
+"North America","United States",Oregon,Lostine,1
+"North America","United States",Virginia,Woodbridge,1
+"North America","United States",Kansas,Scandia,1
+"North America","United States",Texas,Maypearl,1
+"North America","United States",Arizona,Tsaile,1
+"North America","United States",Georgia,Douglas,1
+"North America","United States",Massachusetts,"South Deerfield",1
+"North America","United States",Georgia,Monticello,1
+"North America","United States",Arizona,Page,1
+"North America","United States","New Jersey",Lakehurst,1
+"North America","United States",Oregon,Redmond,1
+"North America","United States",Louisiana,Opelousas,1
+"North America","United States",Arkansas,Booneville,1
+"North America","United States",Texas,Midlands,1
+"North America","United States",Montana,Kalispell,1
+"North America","United States",Missouri,Qulin,1
+"North America","United States","New Hampshire",Hampton,1
+"North America","United States",California,Williams,1
+"North America","United States","North Carolina",Murphy,1
+"North America","United States",Minnesota,"Grand Forks Air Base",1
+"North America","United States",Arizona,Quartzsite,1
+"North America","United States",Arizona,Globe,1
+"North America","United States","New Jersey",Succasunna,1
+"North America","United States",California,Turlock,1
+"North America","United States",Maine,Orono,1
+"North America","United States",California,Tomales,1
+"North America","United States",Minnesota,"New Brighton",1
+"North America","United States",Minnesota,Melrose,1
+"North America","United States",California,"Rancho Santa Margarita",1
+"North America","United States",Montana,"Gast Glacier Park",1
+"North America","United States",Pennsylvania,Pottstown,1
+"North America","United States",Texas,Girard,1
+"North America","United States",California,"Paso Robles",1
+"North America","United States",Oklahoma,Prue,1
+"North America","United States",Massachusetts,Hingham,1
+"North America","United States","New York",Camillus,1
+"North America","United States",Pennsylvania,"Mahanoy City",1
+"North America","United States","North Dakota",Munich,1
+"North America","United States",Ohio,Wilmington,1
+"North America","United States",Illinois,Flanagan,1
+"North America","United States",Missouri,"Moscow Mills",1
+"North America","United States",Ohio,Georgetown,1
+"North America","United States",California,Pleasanton,1
+"North America","United States","New York",Norwood,1
+"North America","United States","New Jersey",Rahway,1
+"North America","United States","North Carolina",Beulaville,1
+"North America","United States","New Hampshire",Winchester,1
+"North America","United States","New York",Tonawanda,1
+"North America","United States",Minnesota,Rockford,1
+"North America","United States",Texas,Corrigan,1
+"North America","United States",Mississippi,Benndale,1
+"North America","United States",Illinois,"Park Ridge",1
+"North America","United States",Maine,"South China",1
+"North America","United States",Michigan,"Norton Shores",1
+"North America","United States",Indiana,Greenfield,1
+"North America","United States","South Carolina",Sumter,1
+"North America","United States",Texas,Hitchcock,1
+"North America","United States",Washington,"Port Ludlow",1
+"North America","United States",Pennsylvania,Corsica,1
+"North America","United States",California,"Crowley Lake",1
+"North America","United States",Texas,Westhoff,1
+"North America","United States",Utah,Midvale,1
+"North America","United States",Missouri,"Knob Noster",1
+"North America","United States",Ohio,Medina,1
+"North America","United States",Missouri,Polo,1
+"North America","United States","New York",Davenport,1
+"North America","United States",Iowa,Churdan,1
+"North America","United States",Virginia,Troutville,1
+"North America","United States",Illinois,Forreston,1
+"North America","United States",Michigan,Bessemer,1
+"North America","United States",Oklahoma,Chandler,1
+"North America","United States","New Mexico",Duncan,1
+"North America","United States",Oregon,Salem,1
+"North America","United States",Oregon,Powers,1
+"North America","United States",Pennsylvania,"West Chester",1
+"North America","United States",Missouri,"Jefferson City",1
+"North America","United States",Florida,"Orange City",1
+"North America","United States",Illinois,Ipava,1
+"North America","United States",Kansas,Russell,1
+"North America","United States",Iowa,"Council Bluffs",1
+"North America","United States",Illinois,Deerfield,1
+"North America","United States",Georgia,Jonesboro,1
+"North America","United States",Illinois,Cicero,1
+"North America","United States",Montana,Harrison,1
+"North America","United States","Rhode Island",Johnston,1
+"North America","United States",Oregon,"Klamath Falls",1
+"North America","United States",Missouri,Parma,1
+"North America","United States",Missouri,Milan,1
+"North America","United States",California,Folsom,1
+"North America","United States",Missouri,Winfield,1
+"North America","United States",Ohio,"Stone Creek",1
+"North America","United States",Oklahoma,Ringling,1
+"North America","United States","South Dakota",Bridgewater,1
+"North America","United States","New York",Portville,1
+"North America","United States",Oklahoma,Alva,1
+"North America","United States",Maryland,Elkton,1
+"North America","United States",Nevada,Glenbrook,1
+"North America","United States",Alaska,Willow,1
+"North America","United States",Minnesota,Medford,1
+"North America","United States","New York","Greenwood Lake",1
+"North America","United States","New York",Warwick,1
+"North America","United States","West Virginia",Morgantown,1
+"North America","United States","New Jersey",Philadelphia,1
+"North America","United States","South Carolina",Cayce,1
+"North America","United States",Maryland,Hagerstown,1
+"North America","United States",Michigan,Plymouth,1
+"North America","United States",California,Redlands,1
+"North America","United States","South Dakota",Huron,1
+"North America","United States","New Mexico","Pena Blanca",1
+"North America","United States",California,Petaluma,1
+"North America","United States",California,Carlsbad,1
+"North America","United States",Iowa,"Lake Mills",1
+"North America","United States",Pennsylvania,"Grove City",1
+"North America","United States",Kentucky,"La Center",1
+"North America","United States",Virginia,Warsaw,1
+"North America","United States",Kansas,Oswego,1
+"North America","United States",Colorado,Calhan,1
+"North America","United States",Florida,Venice,1
+"North America","United States",Illinois,Creston,1
+"North America","United States",Minnesota,"Lake Benton",1
+"North America","United States",Mississippi,Senatobia,1
+"North America","United States",Missouri,Purdy,1
+"North America","United States","South Carolina",Conway,1
+"North America","United States",Oregon,Lyons,1
+"North America","United States",Wisconsin,"Wisconsin Dells",1
+"North America","United States",Minnesota,"Walnut Grove",1
+"North America","United States",California,Greenville,1
+"North America","United States",Missouri,Ferguson,1
+"North America","United States","North Carolina","Elizabeth City",1
+"North America","United States",Illinois,Clinton,1
+"North America","United States",Illinois,Dixon,1
+"North America","United States",Vermont,"North Stratford",1
+"North America","United States",Maryland,Greenbelt,1
+"North America","United States",Oregon,Milwaukie,1
+"North America","United States",California,Loyalton,1
+"North America","United States",Missouri,Kirkwood,1
+"North America","United States",Washington,"Mount Vernon",1
+"North America","United States",Pennsylvania,Lancaster,1
+"North America","United States",Maryland,Towson,1
+"North America","United States",Arizona,"San Simon",1
+"North America","United States",Alabama,Massey,1
+"North America","United States","North Carolina",Lenoir,1
+"North America","United States",Wisconsin,Houlton,1
+"North America","United States",Idaho,"Bonners Ferry",1
+"North America","United States",Missouri,"St Louis",1
+"North America","United States",Illinois,"Machesney Park",1
+"North America","United States",Maryland,Beltsville,1
+"North America","United States",Utah,Draper,1
+"North America","United States","New Jersey","Ocean City",1
+"North America","United States",Florida,Brooksville,1
+"North America","United States",Kentucky,Florence,1
+"North America","United States",Florida,Auburndale,1
+"North America","United States","North Dakota","Dunn Center",1
+"North America","United States","New York","Forest Hills",1
+"North America","United States","New York",Nichols,1
+"North America","United States",Montana,Joplin,1
+"North America","United States",Texas,Garwood,1
+"North America","United States",Texas,Malakoff,1
+"North America","United States","North Carolina",Jackson,1
+"North America","United States",Minnesota,Richmond,1
+"North America","United States",Colorado,"Glenwood Springs",1
+"North America","United States",Oklahoma,Adams,1
+"North America","United States",Louisiana,Bastrop,1
+"North America","United States",Louisiana,Lacassine,1
+"North America","United States",Colorado,"Fort Collins",1
+"North America","United States",Ohio,Harrisburg,1
+"North America","United States",Oklahoma,Lahoma,1
+"North America","United States",Pennsylvania,Bradford,1
+"North America","United States",Minnesota,Viking,1
+"North America","United States",Missouri,Whitesville,1
+"North America","United States",Illinois,Thomasboro,1
+"North America","United States",Michigan,Fremont,1
+"North America","United States",Ohio,"Maple Heights",1
+"North America","United States",Nebraska,Lexington,1
+"North America","United States",Louisiana,Galvez,1
+"North America","United States",Louisiana,Houma,1
+"North America","United States",Pennsylvania,Finleyville,1
+"North America","United States",Ohio,Middletown,1
+"North America","United States","New Hampshire","West Lebanon",1
+"North America","United States",Arkansas,Morrilton,1
+"North America","United States",California,Milpitas,1
+"North America","United States",Ohio,Sebring,1
+"North America","United States",Tennessee,Lavergne,1
+"North America","United States",Nebraska,Scotia,1
+"North America","United States",Tennessee,Kenton,1
+"North America","United States","West Virginia",Sissonville,1
+"North America","United States",Texas,Damon,1
+"North America","United States",Florida,Plantation,1
+"North America","United States",Georgia,Thomaston,1
+"North America","United States",Minnesota,"Silver Bay",1
+"North America","United States",California,Auberry,1
+"North America","United States",Utah,Goshen,1
+"North America","United States",Michigan,"Rochester Hills",1
+"North America","United States",Iowa,Burlington,1
+"North America","United States",Arkansas,Newark,1
+"North America","United States","West Virginia","West Milford",1
+"North America","United States","North Carolina",Elkin,1
+"North America","United States",Florida,Melbourne,1
+"North America","United States","New York",Chester,1
+"North America","United States",Georgia,Chattanooga,1
+"North America","United States",California,"Rohnert Park",1
+"North America","United States",Ohio,Racine,1
+"North America","United States","New York","Red Hook",1
+"North America","United States",Texas,Waxahachie,1
+"North America","United States",Maryland,"Ellicott City",1
+"North America","United States",Georgia,Franklin,1
+"North America","United States",Texas,Denison,1
+"North America","United States",Wyoming,Jackson,1
+"North America","United States",Maine,Biddeford,1
+"North America","United States",Pennsylvania,Canonsburg,1
+"North America","United States",Missouri,Camdenton,1
+"North America","United States",Missouri,Thomasville,1
+"North America","United States","South Carolina",Walterboro,1
+"North America","United States",Alabama,Bessemer,1
+"North America","United States",Nebraska,"Hay Springs",1
+"North America","United States","South Carolina",Charleston,1
+"North America","United States",Iowa,"West Union",1
+"North America","United States",Virginia,Bristol,1
+"North America","United States",Oklahoma,"Elmore City",1
+"North America","United States",Wisconsin,"Elk Lake",1
+"North America","United States",Michigan,Niles,1
+"North America","United States","New York",Peekskill,1
+"North America","United States",Kansas,Andover,1
+"North America","United States",California,"Los Altos",1
+"North America","United States",Arkansas,"Lead Hill",1
+"North America","United States","North Carolina",Forbush,1
+"North America","United States",Virginia,Unionville,1
+"North America","United States","New Mexico","Las Cruces",1
+"North America","United States",Texas,Giddings,1
+"North America","United States",Ohio,"Fort Jennings",1
+"North America","United States",Michigan,Waterford,1
+"North America","United States","South Dakota",Winner,1
+"North America","United States",Kansas,"Glen Elder",1
+"North America","United States",Alaska,Venetie,1
+"North America","United States",Oklahoma,Atoka,1
+"North America","United States",Virginia,Spencer,1
+"North America","United States",Wisconsin,Platteville,1
+"North America","United States",Minnesota,"Holmes City",1
+"North America","United States",California,Orange,1
+"North America","United States",California,"Bermuda Dunes",1
+"North America","United States",Nevada,Elko,1
+"North America","United States",California,"Beverly Hills",1
+"North America","United States",Illinois,Wheaton,1
+"North America","United States",California,"French Camp",1
+"North America","United States","North Dakota",Carrington,1
+"North America","United States",Washington,Burien,1
+"North America","United States","New Mexico","Los Alamos",1
+"North America","United States",Louisiana,Cankton,1
+"North America","United States","New Jersey","Hamilton Square",1
+"North America","United States",Texas,"Bay City",1
+"North America","United States",Texas,Greenville,1
+"North America","United States",Ohio,"Canal Winchester",1
+"North America","United States",Texas,Aspermont,1
+"North America","United States","New York",Ontario,1
+"North America","United States",Tennessee,Tullahoma,1
+"North America","United States",Alaska,Unalaska,1
+"North America","United States","New York",Brookfield,1
+"North America","United States","New York","Eagle Bay",1
+"North America","United States",Montana,Butte,1
+"North America","United States",Idaho,"Coeur D Alene",1
+"North America","United States",Kentucky,Corydon,1
+"North America","United States","North Carolina",Westfield,1
+"North America","United States",Oklahoma,Newcastle,1
+"North America","United States","North Dakota","East Grand Forks",1
+"North America","United States",Nebraska,Coleridge,1
+"North America","United States",California,"San Fernando",1
+"North America","United States",Oklahoma,Mustang,1
+"North America","United States",Pennsylvania,"King Of Prussia",1
+"North America","United States",Missouri,Bourbon,1
+"North America","United States",Kentucky,Earlington,1
+"North America","United States",Texas,"Texas City",1
+"North America","United States",Missouri,Clarksburg,1
+"North America","United States",Kansas,Coffeyville,1
+"North America","United States",Pennsylvania,Millville,1
+"North America","United States","New Hampshire",Dover,1
+"North America","United States",California,Nicasio,1
+"North America","United States",Minnesota,Atwater,1
+"North America","United States",Indiana,Elberfeld,1
+"North America","United States",Georgia,Brunswick,1
+"North America","United States",Minnesota,Alexandria,1
+"North America","United States",Arkansas,Damascus,1
+"North America","United States",Michigan,Elsie,1
+"North America","United States",Georgia,Fairmount,1
+"North America","United States",Ohio,Luckey,1
+"North America","United States",Texas,Aubrey,1
+"North America","United States",Minnesota,"Hazel Run",1
+"North America","United States",Alabama,Arab,1
+"North America","United States","North Carolina","Wake Forest",1
+"North America","United States",Missouri,Linneus,1
+"North America","United States",Oklahoma,"Roger Mills",1
+"North America","United States",Virginia,Quantico,1
+"North America","United States",Washington,Millwood,1
+"North America","United States",Washington,Cashmere,1
+"North America","United States",Kansas,Sharon,1
+"North America","United States","North Carolina","West Jefferson",1
+"North America","United States",Minnesota,Cook,1
+"North America","United States",California,"Pico Rivera",1
+"North America","United States",California,"Baldwin Park",1
+"North America","United States",California,"Moreno Valley",1
+"North America","United States","New Mexico","Santa Fe",1
+"North America","United States",Indiana,Winamac,1
+"North America","United States",Oregon,Corvallis,1
+"North America","United States",Ohio,Logan,1
+"North America","United States","North Carolina",Hendersonville,1
+"North America","United States",Texas,Terrell,1
+"North America","United States",Ohio,"Marion Township",1
+"North America","United States",Georgia,Sylvester,1
+"North America","United States",California,"Arroyo Grande",1
+"North America","United States",Illinois,Palmyra,1
+"North America","United States",Illinois,Olney,1
+"North America","United States",Texas,Fabens,1
+"North America","United States",Oklahoma,Coweta,1
+"North America","United States",Connecticut,"West Haven",1
+"North America","United States","West Virginia","Lost River",1
+"North America","United States",Indiana,Farmland,1
+"North America","United States",Massachusetts,Concord,1
+"North America","United States",Arkansas,Horatio,1
+"North America","United States",Ohio,Amherst,1
+"North America","United States",Ohio,Canton,1
+"North America","United States","North Dakota",Roseglen,1
+"North America","United States",Utah,"Montezuma Creek",1
+"North America","United States",Texas,Wedgwood,1
+"North America","United States",Massachusetts,Oxford,1
+"North America","United States","North Carolina",Windsor,1
+"North America","United States",Missouri,"Cape Girardeau",1
+"North America","United States",Texas,"New Braunfels",1
+"North America","United States",Florida,"Palm Beach Gardens",1
+"North America","United States",Texas,Tomball,1
+"North America","United States",Ohio,Toronto,1
+"North America","United States",California,Caruthers,1
+"North America","United States",Maryland,Herndon,1
+"North America","United States",Washington,Bickleton,1
+"North America","United States",Texas,"Apple Springs",1
+"North America","United States",Texas,Deanville,1
+"North America","United States","New Jersey","Bound Brook",1
+"North America","United States",Alabama,"Orange Beach",1
+"North America","United States","Rhode Island","East Providence",1
+"North America","United States",Missouri,Stoutland,1
+"North America","United States",Connecticut,Branford,1
+"North America","United States",Illinois,"Palos Park",1
+"North America","United States",Kansas,"Fort Scott",1
+"North America","United States",Massachusetts,Auburn,1
+"North America","United States",Utah,Tabiona,1
+"North America","United States",Connecticut,Hicksville,1
+"North America","United States",Colorado,"Fort Morgan",1
+"North America","United States",Maine,Wiscasset,1
+"North America","United States",Texas,Temple,1
+"North America","United States",Kentucky,Alexandria,1
+"North America","United States",Connecticut,Stratford,1
+"North America","United States",Oklahoma,Mccurtain,1
+"North America","United States","Washington DC",Alexandria,1
+"North America","United States","South Carolina","Ocean Drive Beach",1
+"North America","United States",Missouri,Ponder,1
+"North America","United States",Minnesota,Crystal,1
+"North America","United States",Wisconsin,Phillips,1
+"North America","United States",Pennsylvania,Montgomery,1
+"North America","United States",Massachusetts,Natick,1
+"North America","United States","South Carolina","Folly Beach",1
+"North America","United States",Michigan,Okemos,1
+"North America","United States",Oklahoma,Logan,1
+"North America","United States",Connecticut,Stonington,1
+"North America","United States","New Jersey",Millington,1
+"North America","United States",Alabama,Delta,1
+"North America","United States",Pennsylvania,Petrolia,1
+"North America","United States",Idaho,Salmon,1
+"North America","United States","North Carolina",Clinton,1
+"North America","United States",California,"Huntington Park",1
+"North America","United States","West Virginia",Martinsburg,1
+"North America","United States",Mississippi,Richton,1
+"North America","United States",Nebraska,Clarks,1
+"North America","United States",Idaho,"Warm Lake",1
+"North America","United States",Vermont,Woodstock,1
+"North America","United States",Pennsylvania,Albion,1
+"North America","United States",Minnesota,Perley,1
+"North America","United States",Colorado,"Table Mesa",1
+"North America","United States",Missouri,Marshall,1
+"North America","United States","New York",Flushing,1
+"North America","United States",Washington,Easton,1
+"North America","United States",Virginia,"Fort Lewis",1
+"North America","United States",Maryland,"Bel Air",1
+"North America","United States",Missouri,"St Peters",1
+"North America","United States","North Carolina","Laurel Hill",1
+"North America","United States","North Carolina",Concord,1
+"North America","United States",Pennsylvania,Wilkinsburg,1
+"North America","United States",Illinois,Minooka,1
+"North America","United States",Wyoming,"Big Piney",1
+"North America","United States","Rhode Island",Pawtucket,1
+"North America","United States",Iowa,Akron,1
+"North America","United States","New York",Marlboro,1
+"North America","United States",Kentucky,Trenton,1
+"North America","United States",Texas,Sanford,1
+"North America","United States",Washington,"Gig Harbor",1
+"North America","United States",Connecticut,Enfield,1
+"North America","United States",Missouri,"Stark City",1
+"North America","United States",Vermont,Springfield,1
+"North America","United States",Virginia,Edinburg,1
+"North America","United States",Wisconsin,Edgerton,1
+"North America","United States",Georgia,Lagrange,1
+"North America","United States",Utah,Fruitland,1
+"North America","United States",Pennsylvania,Scranton,1
+"North America","United States",Maryland,Germantown,1
+"North America","United States",California,"Rancho Cucamonga",1
+"North America","United States",Vermont,Milton,1
+"North America","United States",Wisconsin,"Lake Geneva",1
+"North America","United States",Oklahoma,Porter,1
+"North America","United States",California,Mugu,1
+"North America","United States",Georgia,Statesboro,1
+"North America","United States",Georgia,Warrenton,1
+"North America","United States",Oklahoma,Hallett,1
+"North America","United States",Illinois,"Pleasant Hill",1
+"North America","United States",Wisconsin,"Spider Lake",1
+"North America","United States",Texas,Uvalde,1
+"North America","United States",Illinois,"St Marys",1
+"North America","United States",Oklahoma,Parsons,1
+"North America","United States",California,Vallejo,1
+"North America","United States",California,Newhall,1
+"North America","United States",Illinois,Sparland,1
+"North America","United States",Michigan,Vanderbilt,1
+"North America","United States",Pennsylvania,Princeton,1
+"North America","United States","New Mexico",Taos,1
+"North America","United States","South Carolina",Bishopville,1
+"North America","United States",Georgia,Cumming,1
+"North America","United States","New York",Chappaqua,1
+"North America","United States",Iowa,Marshalltown,1
+"North America","United States",Arkansas,"Mountain Home",1
+"North America","United States",California,"Culver City",1
+"North America","United States",Georgia,Lenox,1
+"North America","United States",California,Azusa,1
+"North America","United States",Oklahoma,Newalla,1
+"North America","United States",Ohio,"North Royalton",1
+"North America","United States",Minnesota,"Sturgeon Lake",1
+"North America","United States","New York",Bramanville,1
+"North America","United States","New York",Gloversville,1
+"North America","United States",Georgia,Ashburn,1
+"North America","United States",Florida,Deltona,1
+"North America","United States","New York",Hicksville,1
+"North America","United States",Wyoming,"Rock Springs",1
+"North America","United States",Illinois,Virden,1
+"North America","United States",Texas,Wimberley,1
+"North America","United States",Virginia,Floyd,1
+"North America","United States",Idaho,Wallace,1
+"North America","United States",Missouri,"Saint Charles",1
+"North America","United States",Georgia,Woodbury,1
+"North America","United States",Maryland,Solomons,1
+"North America","United States",Kentucky,Pittsburg,1
+"North America","United States",Maine,Bangor,1
+"North America","United States",Ohio,"Grove City",1
+"North America","United States",Texas,Quitman,1
+"North America","United States",Kentucky,Shelbyville,1
+"North America","United States",Wisconsin,Superior,1
+"North America","United States",Virginia,Waynesboro,1
+"North America","United States",California,"Rancho Mirage",1
+"North America","United States",Michigan,Powers,1
+"North America","United States",Massachusetts,Athol,1
+"North America","United States",Oklahoma,Dibble,1
+"North America","United States",Michigan,"Grand Ledge",1
+"North America","United States",Indiana,"Monroe City",1
+"North America","United States",Arkansas,"Hot Springs",1
+"North America","United States",Florida,Archer,1
+"North America","United States",California,Boron,1
+"North America","United States",Illinois,Charleston,1
+"North America","United States",Minnesota,Bigelow,1
+"North America","United States",California,Greenfield,1
+"North America","United States",Texas,Rowlett,1
+"North America","United States",Alaska,"Valdez Creek Mine",1
+"North America","United States",Tennessee,Palmyra,1
+"North America","United States",Iowa,Waterloo,1
+"North America","United States",Virginia,"Johnson City",1
+"North America","United States",Alabama,Citronelle,1
+"North America","United States",Washington,Northport,1
+"North America","United States",Georgia,Lyerly,1
+"North America","United States",Indiana,Valparaiso,1
+"North America","United States",California,Sonora,1
+"North America","United States",Texas,Cresson,1
+"North America","United States",Texas,Katy,1
+"North America","United States",Oregon,"Diamond Lake",1
+"North America","United States",Illinois,Perry,1
+"North America","United States",Michigan,Caro,1
+"North America","United States","North Carolina",Garner,1
+"North America","United States",California,"Menlo Park",1
+"North America","United States",Virginia,Stanardsville,1
+"North America","United States",Louisiana,Sulphur,1
+"North America","United States",Wyoming,"Ten Sleep",1
+"North America","United States",Ohio,Richwood,1
+"North America","United States",Connecticut,Montville,1
+"North America","United States",Louisiana,Cecelia,1
+"North America","United States","South Dakota",Hosmer,1
+"North America","United States",Washington,"Clallam Bay",1
+"North America","United States",Massachusetts,Charlestown,1
+"North America","United States","North Carolina",Southmont,1
+"North America","United States",Mississippi,Artesia,1
+"North America","United States",Virginia,Sperryville,1
+"North America","United States",California,Paradise,1
+"North America","United States",Washington,Renton,1
+"North America","United States",Tennessee,"Oak Ridge",1
+"North America","United States",Pennsylvania,Bedford,1
+"North America","United States",Indiana,"Clarks Hill",1
+"North America","United States",Louisiana,Jonesville,1
+"North America","United States",Pennsylvania,Hancock,1
+"North America","United States",Maryland,"North East",1
+"North America","United States",Montana,Dupuyer,1
+"North America","United States",Minnesota,Stillwater,1
+"North America","United States",Connecticut,Willimantic,1
+"North America","United States",Montana,Billings,1
+"North America","United States",Maine,"Sherman Mills",1
+"North America","United States",Arizona,"Green Valley",1
+"North America","United States",California,Placentia,1
+"North America","United States",Illinois,Carmi,1
+"North America","United States",Wisconsin,"Sister Bay",1
+"North America","United States",California,"Grass Valley",1
+"North America","United States",Indiana,Muncie,1
+"North America","United States",Louisiana,Minden,1
+"North America","United States",Missouri,Joplin,1
+"North America","United States",Kentucky,Germantown,1
+"North America","United States",Arizona,Cottonwood,1
+"North America","United States",Vermont,"West Burke",1
+"North America","United States","North Carolina",Marion,1
+"North America","United States",Georgia,Elberton,1
+"North America","United States",Florida,"Cypress Lake",1
+"North America","United States","South Carolina",Orangeburg,1
+"North America","United States",Maryland,"Fort Washington",1
+"North America","United States",Florida,Clearwater,1
+"North America","United States",Georgia,Conyers,1
+"North America","United States","West Virginia","Charles Town",1
+"North America","United States",Minnesota,Cambridge,1
+"North America","United States",Nevada,"Incline Village",1
+"North America","United States",Iowa,Coin,1
+"North America","United States",Illinois,"Mount Vernon",1
+"North America","United States",California,Lodi,1
+"North America","United States",Maine,Turner,1
+"North America","United States",Indiana,Brookville,1
+"North America","United States","North Carolina",Knightdale,1
+"North America","United States",California,Cloverdale,1
+"North America","United States","South Carolina",Cheraw,1
+"North America","United States",Massachusetts,Belmont,1
+"North America","United States",Texas,Winnsboro,1
+"North America","United States",Iowa,Galva,1
+"North America","United States",Michigan,Olivet,1
+"North America","United States","New Jersey",Ridgewood,1
+"North America","United States",California,Escondido,1
+"North America","United States",Arkansas,"Lake Village",1
+"North America","United States",Illinois,Sefton,1
+"North America","United States",Connecticut,Naugatuck,1
+"North America","United States",Arkansas,Bentonville,1
+"North America","United States",Wisconsin,Trevor,1
+"North America","United States",Michigan,Schoolcraft,1
+"North America","United States",Nebraska,Gordon,1
+"North America","United States","New Hampshire",Salem,1
+"North America","United States",Ohio,Twinsburg,1
+"North America","United States",Kansas,Leavenworth,1
+"North America","United States","New Mexico",Clovis,1
+"North America","United States",Colorado,Fruita,1
+"North America","United States",Florida,"Vero Beach",1
+"North America","United States",Florida,"North Gulf Beach",1
+"North America","United States",Pennsylvania,Carbondale,1
+"North America","United States",Kansas,Grinnell,1
+"North America","United States",Ohio,"Avon Lake",1
+"North America","United States",Missouri,Holden,1
+"North America","United States",Wyoming,Guernsey,1
+"North America","United States",California,"Del Mar",1
+"North America","United States",Georgia,Douglasville,1
+"North America","United States",Texas,"Cypress Springs",1
+"North America","United States",Michigan,Wyandotte,1
+"North America","United States","West Virginia","Paw Paw",1
+"North America","United States",Florida,Largo,1
+"North America","United States",Texas,Rockdale,1
+"North America","United States",Indiana,Sellersburg,1
+"North America","United States",California,Montrose,1
+"North America","United States",Connecticut,Columbia,1
+"North America","United States",Wisconsin,Wittenberg,1
+"North America","United States",Georgia,Pinehurst,1
+"North America","United States",Pennsylvania,Middletown,1
+"North America","United States",Illinois,"Lake Forest",1
+"North America","United States",Pennsylvania,Schaefferstown,1
+"North America","United States",Alabama,Sheffield,1
+"North America","United States",Virginia,Parksley,1
+"North America","United States","New Jersey","Litile Egg Harbor To",1
+"North America","United States",Indiana,Schaumburg,1
+"North America","United States",Georgia,Rome,1
+"North America","United States",California,Lincoln,1
+"North America","United States",Ohio,Bellefontaine,1
+"North America","United States",California,Rocklin,1
+"North America","United States",Alaska,"Port Protection",1
+"North America","United States",Oklahoma,Norman,1
+"North America","United States",Maryland,"Braddock Heights",1
+"North America","United States","North Dakota",Gwinner,1
+"North America","United States","New Jersey",Bridgeport,1
+"North America","United States","West Virginia",Hinton,1
+"North America","United States",Iowa,Anita,1
+"North America","United States","North Carolina","New Bern",1
+"North America","United States",Texas,Sherman,1
+"North America","United States",Alabama,Florence,1
+"North America","United States",Pennsylvania,Pittston,1
+"North America","United States",Florida,"Spring Lake (Highlands)",1
+"North America","United States",Ohio,Jefferson,1
+"North America","United States",Virginia,"The Plains",1
+"North America","United States",Missouri,Taos,1
+"North America","United States","North Carolina",Laurinburg,1
+"North America","United States","New Jersey","New Providence",1
+"North America","United States",Louisiana,Homer,1
+"North America","United States",Florida,"Siesta Key",1
+"North America","United States",Oregon,"Grants Pass",1
+"North America","United States",Tennessee,Nolensville,1
+"North America","United States",Maine,Brunswick,1
+"North America","United States",Massachusetts,"East Douglas",1
+"North America","United States",Illinois,"St David",1
+"North America","United States",Iowa,Paton,1
+"North America","United States",Texas,"Spanish Fort",1
+"North America","United States",Colorado,Allison,1
+"North America","United States",Oklahoma,Carrier,1
+"North America","United States","North Carolina","Southern Pines",1
+"North America","United States","New Jersey",Somerdale,1
+"North America","United States",Oregon,Bellfountain,1
+"North America","United States","North Dakota",Velva,1
+"North America","United States",Texas,"Sullivan City",1
+"North America","United States",Washington,Morton,1
+"North America","United States",Michigan,Harrisville,1
+"North America","United States",Maine,Westbrook,1
+"North America","United States",California,Sonoma,1
+"North America","United States",Nebraska,Humphrey,1
+"North America","United States",Kansas,Chanute,1
+"North America","United States",Iowa,Whiting,1
+"North America","United States",Alabama,"New Brockton",1
+"North America","United States",Indiana,"New Carlisle",1
+"North America","United States",California,Anderson,1
+"North America","United States",Illinois,Rossville,1
+"North America","United States","South Carolina",Abbeville,1
+"North America","United States",Mississippi,"Moss Point",1
+"North America","United States",Illinois,Grayslake,1
+"North America","United States",Pennsylvania,Phila,1
+"North America","United States","New Jersey",Woodbine,1
+"North America","United States",Nebraska,Callaway,1
+"North America","United States",Arkansas,Vilonia,1
+"North America","United States",Iowa,"Fort Madison",1
+"North America","United States",Missouri,Overland,1
+"North America","United States",Iowa,"Nora Springs",1
+"North America","United States",Indiana,Richmond,1
+"North America","United States",Texas,"Oak Hill",1
+"North America","United States","Rhode Island",Woonsocket,1
+"North America","United States",Illinois,Beason,1
+"North America","United States",Oregon,Glide,1
+"North America","United States",Arkansas,Hughes,1
+"North America","United States","North Carolina",Rutherfordton,1
+"North America","United States",Georgia,"Young Harris",1
+"North America","United States",Kentucky,Corbin,1
+"North America","United States",Michigan,"Port Hope",1
+"North America","United States",California,"Hermosa Beach",1
+"North America","United States",Connecticut,Cheshire,1
+"North America","United States",Iowa,Jefferson,1
+"North America","United States",Arizona,Sunizona,1
+"North America","United States","New Jersey",Englewood,1
+"North America","United States",Pennsylvania,Braddock,1
+"North America","United States",Ohio,Boardman,1
+"North America","United States",Missouri,Union,1
+"North America","United States",Michigan,Orleans,1
+"North America","United States",Pennsylvania,Cochranton,1
+"North America","United States",Maryland,Gaithersburg,1
+"North America","United States",Texas,Jasper,1
+"North America","United States","North Carolina","Banner Elk",1
+"North America","United States",California,Earlimart,1
+"North America","United States",Virginia,"Great Falls",1
+"North America","United States",Kentucky,Ashland,1
+"North America","United States","New York",Wells,1
+"North America","United States",Maine,Damariscotta,1
+"North America","United States",Iowa,Bronson,1
+"North America","United States",Wisconsin,"Fort Atkinson",1
+"North America","United States",Florida,Sanibel,1
+"North America","United States","North Carolina",Lomax,1
+"North America","United States",Michigan,Wayne,1
+"North America","United States",Nebraska,"Red Cloud",1
+"North America","United States",Florida,"Coral Gables",1
+"North America","United States",Texas,"San Augustine",1
+"North America","United States",Alaska,Nondalton,1
+"North America","United States",Kansas,Manhattan,1
+"North America","United States",Iowa,Sheffield,1
+"North America","United States",California,Miramonte,1
+"North America","United States","New York",Congers,1
+"North America","United States",Florida,Casselberry,1
+"North America","United States",Michigan,Frankenmuth,1
+"North America","United States",Kansas,"Valley Center",1
+"North America","United States",Wisconsin,Sheboygan,1
+"North America","United States",Louisiana,Haynesville,1
+"North America","United States",Illinois,Benton,1
+"North America","United States",Kansas,Ulysses,1
+"North America","United States",Georgia,Blairsville,1
+"North America","United States",Tennessee,Columbia,1
+"North America","United States","New York",Steamburg,1
+"North America","United States",Wisconsin,Sherwood,1
+"North America","United States",Michigan,Holland,1
+"North America","United States",Pennsylvania,Hershey,1
+"North America","United States",Alaska,Craig,1
+"North America","United States",Ohio,"Cairo (Allen)",1
+"North America","United States","New Mexico",Carlsbad,1
+"North America","United States","Rhode Island","North Providence",1
+"North America","United States",Pennsylvania,Tioga,1
+"North America","United States",Pennsylvania,Bellefonte,1
+"North America","United States",Colorado,"Castle Rock",1
+"North America","United States",Colorado,"Coal Creek Canyon",1
+"North America","United States",Pennsylvania,Bellevue,1
+"North America","United States",Maryland,"La Plata",1
+"North America","United States",Missouri,Maryville,1
+"North America","United States",Illinois,Lawrenceville,1
+"North America","United States",Texas,Flatonia,1
+"North America","United States",Delaware,Norristown,1
+"North America","United States",Wisconsin,Abrams,1
+"North America","United States","New Jersey","Union City",1
+"North America","United States",Oregon,Aloha,1
+"North America","United States",California,"Mcclellan Afb",1
+"North America","United States",Illinois,Tampico,1
+"North America","United States",Nebraska,Scottsbluff,1
+"North America","United States",Illinois,Glenn,1
+"North America","United States","New York","Lake Huntington",1
+"North America","United States",Kentucky,Maysville,1
+"North America","United States","New York",Jamaica,1
+"North America","United States",California,"El Segundo",1
+"North America","United States","North Carolina",Hickory,1
+"North America","United States",Texas,"Deer Park",1
+"North America","United States",Wyoming,Gillette,1
+"North America","United States",Georgia,Watkinsville,1
+"North America","United States",Nebraska,Winside,1
+"North America","United States",Oklahoma,Mcalester,1
+"North America","United States",Iowa,Menlo,1
+"North America","United States",Florida,"St Augustine",1
+"North America","United States",Kansas,Inman,1
+"North America","United States",Louisiana,"New Iberia",1
+"North America","United States",Wisconsin,Reedsville,1
+"North America","United States",Alabama,"Vestavia Hills",1
+"North America","United States",Ohio,"Mount Vernon",1
+"North America","United States",California,Moorpark,1
+"North America","United States",Colorado,Lakewood,1
+"North America","United States","North Carolina",Manteo,1
+"North America","United States","New Hampshire",Jefferson,1
+"North America","United States",Idaho,"Mountain Home",1
+"North America","United States",Tennessee,Hillsdale,1
+"North America","United States",Texas,Portland,1
+"North America","United States",Ohio,Vermilion,1
+"North America","United States",Minnesota,Nisswa,1
+"North America","United States",Washington,Fairfield,1
+"North America","United States",Alabama,Coffeeville,1
+"North America","United States",Illinois,Stewardson,1
+"North America","United States",Minnesota,Enfield,1
+"North America","United States",Iowa,Nashua,1
+"North America","United States",Ohio,"Blue Ash",1
+"North America","United States",Pennsylvania,Wayne,1
+"North America","United States",Missouri,Chesterfield,1
+"North America","United States",Oklahoma,Duncan,1
+"North America","United States","North Carolina",Whitakers,1
+"North America","United States",California,Hollister,1
+"North America","United States",Florida,"Altamonte Springs",1
+"North America","United States",Michigan,Wyoming,1
+"North America","United States",Kentucky,Henderson,1
+"North America","United States",Illinois,Henning,1
+"North America","United States",Michigan,Ludington,1
+"North America","United States",Maryland,Greensboro,1
+"North America","United States",Massachusetts,Worthington,1
+"North America","United States",Wisconsin,Sarona,1
+"North America","United States","North Carolina",Lillington,1
+"North America","United States",Alabama,Silas,1
+"North America","United States",Oregon,Alsea,1
+"North America","United States",Mississippi,Soso,1
+"North America","United States",Texas,Jackson,1
+"North America","United States",Georgia,Bainbridge,1
+"North America","United States",Arkansas,"Bull Shoals",1
+"North America","United States",Missouri,"Fort Scott",1
+"North America","United States",Texas,Star,1
+"North America","United States",Ohio,Cardington,1
+"North America","United States",Florida,"North Dade",1
+"North America","United States",Missouri,Norborne,1
+"North America","United States",California,Pasadena,1
+"North America","United States",Maryland,"Bryans Road",1
+"North America","United States",Virginia,Lynchburg,1
+"North America","United States",Indiana,Peru,1
+"North America","United States",Iowa,"Rose Hill",1
+"North America","United States",Pennsylvania,Reading,1
+"North America","United States",Texas,Allen,1
+"North America","United States","South Carolina",Pickens,1
+"North America","United States",Iowa,Hudson,1
+"North America","United States",Illinois,"Tinley Park",1
+"North America","United States",Florida,Oviedo,1
+"North America","United States",Texas,Dorchester,1
+"North America","United States",Washington,Quilcene,1
+"North America","United States","South Carolina",Georgetown,1
+"North America","United States",Connecticut,Trumbull,1
+"North America","United States",Texas,Palmer,1
+"North America","United States","North Carolina",Kannapolis,1
+"North America","United States",Indiana,Cutler,1
+"North America","United States",Illinois,Loda,1
+"North America","United States",Kentucky,Russellville,1
+"North America","United States","North Dakota",Wahpeton,1
+"North America","United States",Iowa,"Le Mars",1
+"North America","United States","South Dakota",Canistota,1
+"North America","United States",Utah,Boulder,1
+"North America","United States",Florida,"Palm Bay",1
+"North America","United States",Kansas,Belleville,1
+"North America","United States",Virginia,Portsmouth,1
+"North America","United States",Tennessee,Lebanon,1
+"North America","United States",Texas,Mission,1
+"North America","United States",Indiana,Carthage,1
+"North America","United States",Wisconsin,Oshkosh,1
+"North America","United States",Tennessee,Dyersburg,1
+"North America","United States",Texas,"Wills Point",1
+"North America","United States",Illinois,Carlock,1
+"North America","United States",Ohio,Medway,1
+"North America","United States",Kansas,Paola,1
+"North America","United States",Georgia,Fairburn,1
+"North America","United States",Michigan,"Port Huron",1
+"North America","United States","New Hampshire",Candia,1
+"North America","United States",Pennsylvania,"Wilkes Barre",1
+"North America","United States",Texas,Italy,1
+"North America","United States","New Mexico",Roswell,1
+"North America","United States",Wisconsin,Cascade,1
+"North America","United States",Maryland,Pikesville,1
+"North America","United States",Montana,"North Cut Bank",1
+"North America","United States",Texas,Quanah,1
+"North America","United States",Texas,"Wichita Falls",1
+"North America","United States",Illinois,Macomb,1
+"North America","United States","North Carolina",Kinston,1
+"North America","United States",Pennsylvania,"Pocono Lake",1
+"North America","United States","Washington DC",Lanham,1
+"North America","United States",Kentucky,Stanley,1
+"North America","United States",Idaho,Stanley,1
+"North America","United States",Oregon,Albany,1
+"North America","United States",Pennsylvania,Indiana,1
+"North America","United States",Georgia,Alpharetta,1
+"North America","United States",Pennsylvania,Chester,1
+"North America","United States",Indiana,Carmel,1
+"North America","United States",Texas,Robinson,1
+"North America","United States",Montana,Havre,1
+"North America","United States",Florida,Stuart,1
+"North America","United States",California,Downey,1
+"North America","United States",Kansas,Lancaster,1
+"North America","United States",Arizona,"Casa Grande",1
+"North America","United States","New York",Byron,1
+"North America","United States","New Jersey",Passaic,1
+"North America","United States",California,Roseville,1
+"North America","United States",Mississippi,Greenville,1
+"North America","United States",Arkansas,"Heber Springs",1
+"North America","United States","North Carolina",Apex,1
+"North America","United States",Pennsylvania,"Mc Kees Rocks",1
+"North America","United States",Missouri,"O Fallon",1
+"North America","United States",Illinois,"Round Lake",1
+"North America","United States",Pennsylvania,Gap,1
+"North America","United States",Minnesota,Vining,1
+"North America","United States",Washington,Kent,1
+"North America","United States",California,Alameda,1
+"North America","United States",Georgia,"Warner Robins",1
+"North America","United States","North Carolina",Morganton,1
+"North America","United States",Virginia,Marion,1
+"North America","United States",Oklahoma,Englewood,1
+"North America","United States",Maine,Freeport,1
+"North America","United States","New York",Levittown,1
+"North America","United States",Indiana,Greensburg,1
+"North America","United States",Illinois,Benld,1
+"North America","United States",Texas,Anton,1
+"North America","United States",Illinois,Browns,1
+"North America","United States",Arizona,Sacaton,1
+"North America","United States",Mississippi,"Bay St Louis",1
+"North America","United States",Pennsylvania,Ephrata,1
+"North America","United States",Texas,"De Berry",1
+"North America","United States",Illinois,"Vernon Hills",1
+"North America","United States",Minnesota,Bemidji,1
+"North America","United States",Ohio,Colebrook,1
+"North America","United States",Florida,Wildwood,1
+"North America","United States",Pennsylvania,Lansdale,1
+"North America","United States",Oklahoma,Lawton,1
+"North America","United States",Tennessee,Palmersville,1
+"North America","United States",Pennsylvania,"New Florence",1
+"North America","United States",Iowa,"Sac City",1
+"North America","United States",Ohio,"Cuyahoga Falls",1
+"North America","United States",Florida,"St Petersburg",1
+"North America","United States",Arizona,"Joseph City",1
+"North America","United States",Illinois,Lemont,1
+"North America","United States",Georgia,Hephzibah,1
+"North America","United States",Illinois,Danvers,1
+"North America","United States",Ohio,Doylestown,1
+"North America","United States",Mississippi,Goodman,1
+"North America","United States",Kansas,Chester,1
+"North America","United States","New York",Lockport,1
+"North America","United States","South Carolina",Stateburg,1
+"North America","United States","West Virginia",Mannington,1
+"North America","United States","North Carolina",Benson,1
+"North America","United States",Utah,Monticello,1
+"North America","United States",Texas,Hooks,1
+"North America","United States",Oklahoma,Wynnewood,1
+"North America","United States",Nebraska,Homer,1
+"North America","United States",Arkansas,Turrell,1
+"North America","United States",California,Oakhurst,1
+"North America","United States",Maryland,Adelphi,1
+"North America","United States",Kansas,Ellsworth,1
+"North America","United States",Indiana,Dana,1
+"North America","United States",Illinois,"East Moline",1
+"North America","United States",Alabama,Louisville,1
+"North America","United States",Utah,Riverton,1
+"North America","United States",Missouri,"La Plata",1
+"North America","United States",Georgia,Cusseta,1
+"North America","United States",Ohio,Beachwood,1
+"North America","United States","New York",Hornell,1
+"North America","United States",Kentucky,Flemingsburg,1
+"North America","United States",California,"La Habra",1
+"North America","United States",California,"China Lake",1
+"North America","United States",Nebraska,Wahoo,1
+"North America","United States","New York",Jordan,1
+"North America","United States",Illinois,"Thomas (Bureau)",1
+"North America","United States",Pennsylvania,"Mc Donald",1
+"North America","United States",Illinois,Brussels,1
+"North America","United States",Montana,"Big Timber",1
+"North America","United States",Texas,Princeton,1
+"North America","United States",Wisconsin,Brooks,1
+"North America","United States",Missouri,"Portage Des Sioux",1
+"North America","United States",California,"La Verne",1
+"North America","United States",Wisconsin,Woodford,1
+"North America","United States",Missouri,Archie,1
+"North America","United States",Nebraska,Kilgore,1
+"North America","United States",Washington,Auburn,1
+"North America","United States","New York",Pleasantville,1
+"North America","United States",Iowa,Sibley,1
+"North America","United States",Mississippi,Ethel,1
+"North America","United States",Washington,"Port Angeles",1
+"North America","United States",Massachusetts,Harwich,1
+"North America","United States",Washington,Bellevue,1
+"North America","United States",Idaho,Emmett,1
+"North America","United States",Missouri,Branson,1
+"North America","United States",Oregon,Gresham,1
+"North America","United States",Kentucky,Cincinnati,1
